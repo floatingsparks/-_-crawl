@@ -1,0 +1,189 @@
+{'companyId': 24574, 'companyFullName ': '广州赛意信息科技股份有限公司', 'positionName': 'python工程师', 'education': '不限', 'workYear': '不限', 'salary': '15k-25k'}
+{'companyId': 158669, 'companyFullName ': '行云智能（深圳）技术有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 108208, 'companyFullName ': '深圳市出众网络有限公司', 'positionName': 'Python工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 16039, 'companyFullName ': '深圳花果山科技有限公司', 'positionName': 'Python', 'education': '本科', 'workYear': '1-3年', 'salary': '5k-8k'}
+{'companyId': 136728, 'companyFullName ': '深圳市铭淏网络科技有限公司', 'positionName': 'Python开发工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '12k-16k'}
+{'companyId': 33627, 'companyFullName ': '深圳市乐易网络有限公司', 'positionName': 'Python', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 50285, 'companyFullName ': '深圳众禄基金销售股份有限公司', 'positionName': 'Python开发工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '18k-25k'}
+{'companyId': 114731, 'companyFullName ': '深圳市猎芯科技有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-29k'}
+{'companyId': 69152, 'companyFullName ': '深圳市博奥特科技有限公司', 'positionName': 'Python开发工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '10k-15k'}
+{'companyId': 146561, 'companyFullName ': '深圳市瑞驰信息技术有限公司', 'positionName': 'python开发工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '6k-12k'}
+{'companyId': 76066, 'companyFullName ': '深圳晶泰科技有限公司', 'positionName': '高级Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-23k'}
+{'companyId': 178069, 'companyFullName ': '深圳市狮子座信息技术有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-20k'}
+{'companyId': 8350, 'companyFullName ': '万科物业发展有限公司', 'positionName': '高级Python开发', 'education': '本科', 'workYear': '5-10年', 'salary': '20k-30k'}
+{'companyId': 44875, 'companyFullName ': '印孚瑟斯技术（中国）有限公司', 'positionName': 'python软件工程师', 'education': '大专', 'workYear': '不限', 'salary': '8k-15k'}
+{'companyId': 5580, 'companyFullName ': '深圳市明源云客电子商务有限公司', 'positionName': '高级Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '16k-22k'}
+{'companyId': 114731, 'companyFullName ': '深圳市猎芯科技有限公司', 'positionName': 'Python工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '15k-29k'}
+{'companyId': 33627, 'companyFullName ': '深圳市乐易网络有限公司', 'positionName': 'python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '10k-20k'}
+{'companyId': 8350, 'companyFullName ': '万科物业发展有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 76066, 'companyFullName ': '深圳晶泰科技有限公司', 'positionName': 'Python 算法工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '18k-30k'}
+{'companyId': 128998, 'companyFullName ': '上海海万信息科技股份有限公司', 'positionName': 'Python工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 167844, 'companyFullName ': '深圳永安在线科技有限公司', 'positionName': '高级Python', 'education': '本科', 'workYear': '5-10年', 'salary': '25k-40k'}
+{'companyId': 147424, 'companyFullName ': '深圳贝尔创意科教有限公司', 'positionName': 'Python 开发', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 3038, 'companyFullName ': '北京国双科技有限公司', 'positionName': '资深python开发工程师', 'education': '本科', 'workYear': '5-10年', 'salary': '15k-25k'}
+{'companyId': 917, 'companyFullName ': '深圳市和讯华谷信息技术有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 184532, 'companyFullName ': '深圳呗佬智能有限公司', 'positionName': 'python开发工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 29911, 'companyFullName ': '深圳市中手游网络科技有限公司', 'positionName': 'sz-Python开发岗', 'education': '大专', 'workYear': '1-3年', 'salary': '15k-25k'}
+{'companyId': 78224, 'companyFullName ': '深圳码隆科技有限公司', 'positionName': '高级Python开发工程师', 'education': '不限', 'workYear': '3-5年', 'salary': '20k-40k'}
+{'companyId': 71639, 'companyFullName ': '深圳市杉岩数据技术有限公司', 'positionName': '高级Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '16k-23k'}
+{'companyId': 69152, 'companyFullName ': '深圳市博奥特科技有限公司', 'positionName': 'Python工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '15k-28k'}
+{'companyId': 31210, 'companyFullName ': '深圳网脊科技开发有限公司', 'positionName': 'python高级开发工程师', 'education': '大专', 'workYear': '5-10年', 'salary': '15k-20k'}
+{'companyId': 33627, 'companyFullName ': '深圳市乐易网络有限公司', 'positionName': 'python高级开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 3038, 'companyFullName ': '北京国双科技有限公司', 'positionName': '高级python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-20k'}
+{'companyId': 114731, 'companyFullName ': '深圳市猎芯科技有限公司', 'positionName': 'Python工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 917, 'companyFullName ': '深圳市和讯华谷信息技术有限公司', 'positionName': '高级Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 69152, 'companyFullName ': '深圳市博奥特科技有限公司', 'positionName': '高级python开发工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 78224, 'companyFullName ': '深圳码隆科技有限公司', 'positionName': 'Python开发工程师', 'education': '不限', 'workYear': '不限', 'salary': '20k-40k'}
+{'companyId': 44875, 'companyFullName ': '印孚瑟斯技术（中国）有限公司', 'positionName': 'Python开发工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '10k-20k'}
+{'companyId': 182070, 'companyFullName ': '深信服科技股份有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '不限', 'salary': '10k-20k'}
+{'companyId': 16831, 'companyFullName ': '武汉佰钧成技术有限责任公司', 'positionName': 'Python中级开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '12k-18k'}
+{'companyId': 129877, 'companyFullName ': '上海航仕企业管理有限公司', 'positionName': 'Python开发', 'education': '本科', 'workYear': '3-5年', 'salary': '20k-35k'}
+{'companyId': 71639, 'companyFullName ': '深圳市杉岩数据技术有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-16k'}
+{'companyId': 38718, 'companyFullName ': '有棵树（深圳）网络科技有限公司', 'positionName': 'python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '8k-16k'}
+{'companyId': 205821, 'companyFullName ': '武汉烧麦财播科技有限公司', 'positionName': 'Python开发工程师（深圳公司）', 'education': '本科', 'workYear': '3-5年', 'salary': '18k-25k'}
+{'companyId': 200377, 'companyFullName ': '深圳华策辉弘科技有限公司', 'positionName': 'Python算法工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '8k-15k'}
+{'companyId': 148452, 'companyFullName ': '深圳布谷鸟信息科技有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 3038, 'companyFullName ': '北京国双科技有限公司', 'positionName': '资深python研发工程师（深圳）', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 69152, 'companyFullName ': '深圳市博奥特科技有限公司', 'positionName': 'Python', 'education': '大专', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 182070, 'companyFullName ': '深信服科技股份有限公司', 'positionName': 'Python软件开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-20k'}
+{'companyId': 10829, 'companyFullName ': '上海胜日信息科技有限公司', 'positionName': 'python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-20k'}
+{'companyId': 53711, 'companyFullName ': '浪潮通用软件有限公司深圳研发中心', 'positionName': 'python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '11k-18k'}
+{'companyId': 30456, 'companyFullName ': '深圳回收宝科技有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-22k'}
+{'companyId': 92449, 'companyFullName ': '深圳市瑞云科技有限公司', 'positionName': 'Python高级研发工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '10k-15k'}
+{'companyId': 117217, 'companyFullName ': '深圳市博悦科创科技有限公司', 'positionName': 'python软件开发工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '10k-13k'}
+{'companyId': 3956, 'companyFullName ': '深圳市盖威科技有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '14k-20k'}
+{'companyId': 1015, 'companyFullName ': '心灵失重（北京）科技有限公司', 'positionName': 'Python', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 917, 'companyFullName ': '深圳市和讯华谷信息技术有限公司', 'positionName': 'Python开发工程师（中级）', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-15k'}
+{'companyId': 100164, 'companyFullName ': '北京千锋互联科技有限公司', 'positionName': 'Python讲师', 'education': '大专', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 42050, 'companyFullName ': '广州市梦享网络技术有限公司', 'positionName': 'Python开发工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '10k-20k'}
+{'companyId': 53970, 'companyFullName ': '深圳狗尾草智能科技有限公司', 'positionName': '高级Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 44875, 'companyFullName ': '印孚瑟斯技术（中国）有限公司', 'positionName': 'Python', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-20k'}
+{'companyId': 3038, 'companyFullName ': '北京国双科技有限公司', 'positionName': '资深Python工程师（深圳）', 'education': '本科', 'workYear': '5-10年', 'salary': '20k-30k'}
+{'companyId': 69152, 'companyFullName ': '深圳市博奥特科技有限公司', 'positionName': '中高级python开发工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 117217, 'companyFullName ': '深圳市博悦科创科技有限公司', 'positionName': '急聘python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '8k-16k'}
+{'companyId': 3956, 'companyFullName ': '深圳市盖威科技有限公司', 'positionName': 'Python交易开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '14k-20k'}
+{'companyId': 40459, 'companyFullName ': '北京市商汤科技开发有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 6566, 'companyFullName ': '金蝶软件（中国）有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '10k-20k'}
+{'companyId': 65521, 'companyFullName ': '深圳市泽林信息咨询有限公司', 'positionName': '高级python开发', 'education': '大专', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 124262, 'companyFullName ': '深圳佑驾创新科技有限公司', 'positionName': 'python工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-30k'}
+{'companyId': 267905, 'companyFullName ': '上海炽聚网络科技有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '12K-20K'}
+{'companyId': 84086, 'companyFullName ': '厦门笨鸟电子商务有限公司', 'positionName': 'python工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '20k-40k'}
+{'companyId': 24748, 'companyFullName ': '平安科技（深圳）有限公司', 'positionName': 'Python开发工程师（深圳）', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 25317, 'companyFullName ': '深圳市金证科技股份有限公司', 'positionName': '后台开发（python）工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '12k-14k'}
+{'companyId': 163522, 'companyFullName ': '深圳开黑科技有限公司', 'positionName': '高级Python开发工程师', 'education': '本科', 'workYear': '5-10年', 'salary': '16k-26k'}
+{'companyId': 35565, 'companyFullName ': '深圳市一面网络技术有限公司', 'positionName': 'Python工程师（数据平台）', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-30k'}
+{'companyId': 7918, 'companyFullName ': '乐格商业咨询（深圳）有限公司', 'positionName': 'Python高级开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '16k-30k'}
+{'companyId': 3038, 'companyFullName ': '北京国双科技有限公司', 'positionName': '高级Python开发工程师（深圳）', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-20k'}
+{'companyId': 3956, 'companyFullName ': '深圳市盖威科技有限公司', 'positionName': 'python后台开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '18k-30k'}
+{'companyId': 917, 'companyFullName ': '深圳市和讯华谷信息技术有限公司', 'positionName': '极光调研 - 高级 Python 工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '18k-35k'}
+{'companyId': 130397, 'companyFullName ': '深圳小步网络科技有限公司', 'positionName': 'Python后台开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 66079, 'companyFullName ': '美联物业代理(深圳)有限公司', 'positionName': 'Python', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 131846, 'companyFullName ': '深圳虾皮信息科技有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-30k'}
+{'companyId': 63500, 'companyFullName ': '深圳市紫川软件有限公司', 'positionName': 'python工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '8k-14k'}
+{'companyId': 31210, 'companyFullName ': '深圳网脊科技开发有限公司', 'positionName': 'python运维开发工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '14k-18k'}
+{'companyId': 9275, 'companyFullName ': '深圳市易讯天空网络技术有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 69152, 'companyFullName ': '深圳市博奥特科技有限公司', 'positionName': '中级PYTHON开发工程师', 'education': '大专', 'workYear': '5-10年', 'salary': '22k-25k'}
+{'companyId': 117217, 'companyFullName ': '深圳市博悦科创科技有限公司', 'positionName': '急聘Python开发', 'education': '本科', 'workYear': '1-3年', 'salary': '8k-16k'}
+{'companyId': 182070, 'companyFullName ': '深信服科技股份有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 104181, 'companyFullName ': '广州优融网络科技有限责任公司', 'positionName': 'Python开发工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 35996, 'companyFullName ': '顺丰科技有限公司', 'positionName': 'python后台开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 161307, 'companyFullName ': '深圳瀚德金融科技控股有限公司', 'positionName': 'Python数据开发工程师（数据平台）-XWJF', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-25k'}
+{'companyId': 3038, 'companyFullName ': '北京国双科技有限公司', 'positionName': '高级python研发工程师（深圳）', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 25317, 'companyFullName ': '深圳市金证科技股份有限公司', 'positionName': 'Python', 'education': '大专', 'workYear': '3-5年', 'salary': '10k-16k'}
+{'companyId': 145652, 'companyFullName ': '深圳市木浪云数据有限公司', 'positionName': '高级Python工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 131846, 'companyFullName ': '深圳虾皮信息科技有限公司', 'positionName': 'Python开发工程师（高级）', 'education': '本科', 'workYear': '3-5年', 'salary': '30k-50k'}
+{'companyId': 83025, 'companyFullName ': '深圳市环球易购电子商务有限公司', 'positionName': '高级python开发工程师', 'education': '大专', 'workYear': '3-5年', 'salary': '12k-20k'}
+{'companyId': 6636, 'companyFullName ': '携程计算机技术（上海）有限公司', 'positionName': 'Python运维开发工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '15k-20k'}
+{'companyId': 37669, 'companyFullName ': '深圳米筐科技有限公司', 'positionName': 'Python后台开发/数据平台 资深工程师', 'education': '本科', 'workYear': '5-10年', 'salary': '25k-30k'}
+{'companyId': 63808, 'companyFullName ': '皓量科技（深圳）有限公司', 'positionName': '高级Python开发工程师', 'education': '本科', 'workYear': '5-10年', 'salary': '20k-30k'}
+{'companyId': 141569, 'companyFullName ': '愛比特有限公司', 'positionName': 'Python 后台工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 451, 'companyFullName ': '腾讯科技(深圳)有限公司', 'positionName': 'python后台高级工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 100164, 'companyFullName ': '北京千锋互联科技有限公司', 'positionName': 'Python讲师', 'education': '本科', 'workYear': '3-5年', 'salary': '20k-40k'}
+{'companyId': 163522, 'companyFullName ': '深圳开黑科技有限公司', 'positionName': 'Python研发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '11k-21k'}
+{'companyId': 73354, 'companyFullName ': '深圳市易博天下科技有限公司', 'positionName': 'Python开发工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '11k-20k'}
+{'companyId': 318600, 'companyFullName ': '深圳市星月互娱科技有限公司', 'positionName': '量化系统python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '10k-20k'}
+{'companyId': 276586, 'companyFullName ': '深圳海链科技有限公司', 'positionName': 'Python 后台工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '20k-35k'}
+{'companyId': 145652, 'companyFullName ': '深圳市木浪云数据有限公司', 'positionName': 'Python', 'education': '本科', 'workYear': '5-10年', 'salary': '10k-15k'}
+{'companyId': 53970, 'companyFullName ': '深圳狗尾草智能科技有限公司', 'positionName': '高级Python后端开发工程师', 'education': '本科', 'workYear': '5-10年', 'salary': '20k-40k'}
+{'companyId': 97882, 'companyFullName ': '达而观信息科技（上海）有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '8k-10k'}
+{'companyId': 44602, 'companyFullName ': '深圳市南伽科技信息有限公司', 'positionName': 'Python高级开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '10k-15k'}
+{'companyId': 24748, 'companyFullName ': '平安科技（深圳）有限公司', 'positionName': 'Python后台开发工程师（深圳）', 'education': '本科', 'workYear': '不限', 'salary': '10k-15k'}
+{'companyId': 241552, 'companyFullName ': '深圳市信瑞泰支付服务有限公司', 'positionName': 'Python工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '10k-12k'}
+{'companyId': 135243, 'companyFullName ': '试金石信用服务有限公司', 'positionName': 'Python开发岗', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 3956, 'companyFullName ': '深圳市盖威科技有限公司', 'positionName': 'python后台开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '14k-25k'}
+{'companyId': 65521, 'companyFullName ': '深圳市泽林信息咨询有限公司', 'positionName': 'Python讲师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-20k'}
+{'companyId': 219950, 'companyFullName ': '深圳市幻竞科技有限公司', 'positionName': 'python服务器高级开发工程师', 'education': '不限', 'workYear': '1-3年', 'salary': '12k-24k'}
+{'companyId': 21775, 'companyFullName ': '深圳市大疆创新科技有限公司', 'positionName': 'Python工程师', 'education': '本科', 'workYear': '不限', 'salary': '15k-30k'}
+{'companyId': 110722, 'companyFullName ': '深圳市编玩边学教育科技有限公司', 'positionName': '课程设计师（python）', 'education': '本科', 'workYear': '1-3年', 'salary': '7k-12k'}
+{'companyId': 59521, 'companyFullName ': '翼果（深圳）科技有限公司', 'positionName': 'Python资深后台工程师(科技园)', 'education': '本科', 'workYear': '3-5年', 'salary': '25k-50k'}
+{'companyId': 46286, 'companyFullName ': '深圳市新一代信息技术研究院有限公司', 'positionName': 'python讲师', 'education': '大专', 'workYear': '1-3年', 'salary': '15k-30k'}
+{'companyId': 155301, 'companyFullName ': '深圳合纵能源技术有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '8k-15k'}
+{'companyId': 105245, 'companyFullName ': '深圳市阿西莫夫科技有限公司', 'positionName': 'python后端工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 109474, 'companyFullName ': '首汇焦点（北京）科技有限公司', 'positionName': 'Python 软件开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 65961, 'companyFullName ': '深圳市库瑞德科技有限公司', 'positionName': 'Python/Django工程师', 'education': '不限', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 28556, 'companyFullName ': '深圳市中企工联保家电服务有限公司', 'positionName': 'Python 工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '5k-10k'}
+{'companyId': 164895, 'companyFullName ': '智言科技(深圳)有限公司', 'positionName': 'Python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '12k-24k'}
+{'companyId': 319090, 'companyFullName ': '广州登风网络开发有限公司', 'positionName': 'Python开发工程师', 'education': '大专', 'workYear': '1年以下', 'salary': '4k-6k'}
+{'companyId': 81165, 'companyFullName ': '华润置地有限公司', 'positionName': '数据工程师（Python）', 'education': '本科', 'workYear': '3-5年', 'salary': '10k-20k'}
+{'companyId': 80273, 'companyFullName ': '广东安创信息科技开发有限公司', 'positionName': 'Python后端开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '6k-10k'}
+{'companyId': 107664, 'companyFullName ': '岩心科技（深圳）有限公司', 'positionName': '高级Python工程师/面向对象高级Python工', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 59521, 'companyFullName ': '翼果（深圳）科技有限公司', 'positionName': 'Python高级后台工程师(科技园)', 'education': '本科', 'workYear': '1-3年', 'salary': '20k-40k'}
+{'companyId': 110722, 'companyFullName ': '深圳市编玩边学教育科技有限公司', 'positionName': '代码编程老师（Python）', 'education': '本科', 'workYear': '不限', 'salary': '8k-15k'}
+{'companyId': 23291, 'companyFullName ': '厦门美图之家科技有限公司', 'positionName': '高级后台工程师-Python（大数据&amp;AI）', 'education': '本科', 'workYear': '3-5年', 'salary': '25k-45k'}
+{'companyId': 161296, 'companyFullName ': '深圳市方舟云数信息科技有限公司', 'positionName': 'Python工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '20k-40k'}
+{'companyId': 32687, 'companyFullName ': '深圳市前海汇流信息科技有限公司', 'positionName': 'Python研发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '13k-25k'}
+{'companyId': 114307, 'companyFullName ': '深圳市赞悦科技有限公司', 'positionName': 'PYTHON开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '8k-10k'}
+{'companyId': 107664, 'companyFullName ': '岩心科技（深圳）有限公司', 'positionName': 'Python后台开发/数据平台/Senior', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 59521, 'companyFullName ': '翼果（深圳）科技有限公司', 'positionName': 'Python后台工程师(科技园)', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-30k'}
+{'companyId': 6927, 'companyFullName ': '广东欧珀移动通信有限公司', 'positionName': 'Python工程师（运维平台）', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 53711, 'companyFullName ': '浪潮通用软件有限公司深圳研发中心', 'positionName': 'python开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '11k-18k'}
+{'companyId': 76413, 'companyFullName ': '深圳宸睿科技有限公司', 'positionName': 'Python工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '9k-16k'}
+{'companyId': 118281, 'companyFullName ': '深圳市南国新格网络科技有限责任公司', 'positionName': 'Python工程师', 'education': '本科', 'workYear': '不限', 'salary': '8k-12k'}
+{'companyId': 35996, 'companyFullName ': '顺丰科技有限公司', 'positionName': 'GIS平台JAVA工作流与PYTHON脚本高级研发', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 142442, 'companyFullName ': '云数信息科技（深圳）有限公司', 'positionName': 'Python 开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '9k-18k'}
+{'companyId': 240226, 'companyFullName ': 'August Robotics Limited', 'positionName': 'Python 软件工程师', 'education': '本科', 'workYear': '不限', 'salary': '10k-20k'}
+{'companyId': 172435, 'companyFullName ': '深圳市正易龙科技有限公司', 'positionName': 'PYTHON开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '12k-20k'}
+{'companyId': 134462, 'companyFullName ': '深圳爱财科技有限公司', 'positionName': 'Python工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 23291, 'companyFullName ': '厦门美图之家科技有限公司', 'positionName': '高级后台工程师-Python（大数据&amp;AI）', 'education': '本科', 'workYear': '1-3年', 'salary': '20k-40k'}
+{'companyId': 139502, 'companyFullName ': '前海企保科技（深圳）有限公司', 'positionName': 'Python工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 110960, 'companyFullName ': '深圳市前海欢雀科技有限公司', 'positionName': 'Python工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '12k-16k'}
+{'companyId': 321001, 'companyFullName ': '深圳微众税银信息服务有限公司', 'positionName': '开发工程师-JAVA/R/Python', 'education': '本科', 'workYear': '3-5年', 'salary': '18k-30k'}
+{'companyId': 23291, 'companyFullName ': '厦门美图之家科技有限公司', 'positionName': 'Python工程师（海外产品创新）', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-30k'}
+{'companyId': 147400, 'companyFullName ': '深圳酷竞科技有限公司', 'positionName': 'Python开发工程师', 'education': '不限', 'workYear': '3-5年', 'salary': '10k-20k'}
+{'companyId': 100164, 'companyFullName ': '北京千锋互联科技有限公司', 'positionName': 'python助教老师（项目经理）', 'education': '大专', 'workYear': '1-3年', 'salary': '7k-13k'}
+{'companyId': 82871, 'companyFullName ': '深圳前海中清龙图教育科技有限公司', 'positionName': 'Python开发讲师', 'education': '大专', 'workYear': '1-3年', 'salary': '12k-18k'}
+{'companyId': 22233, 'companyFullName ': '深圳市找库科技有限公司', 'positionName': 'python开发', 'education': '本科', 'workYear': '1-3年', 'salary': '8k-16k'}
+{'companyId': 188568, 'companyFullName ': '北京嗨钱科技有限公司', 'positionName': 'python工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 50205, 'companyFullName ': '深圳安讯通达科技有限公司', 'positionName': 'Python/Java开发工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '6k-10k'}
+{'companyId': 160695, 'companyFullName ': '深圳浩瀚星际网络科技有限公司', 'positionName': '高级Python工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 201020, 'companyFullName ': '深圳库尚信息技术有限公司', 'positionName': 'python开发工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '8k-16k'}
+{'companyId': 316083, 'companyFullName ': '深圳市伊客服饰有限公司', 'positionName': 'Python后台开发', 'education': '不限', 'workYear': '1-3年', 'salary': '12K-20K'}
+{'companyId': 56287, 'companyFullName ': '深圳市点趣网络技术有限公司', 'positionName': 'Python助理开发工程师', 'education': '本科', 'workYear': '不限', 'salary': '5k-8k'}
+{'companyId': 33627, 'companyFullName ': '深圳市乐易网络有限公司', 'positionName': 'web/python全栈工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 128998, 'companyFullName ': '上海海万信息科技股份有限公司', 'positionName': 'Python 数据分析', 'education': '大专', 'workYear': '3-5年', 'salary': '13k-25k'}
+{'companyId': 9253, 'companyFullName ': '富途网络科技（深圳）有限公司', 'positionName': '运营开发工程师（Python）', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-30k'}
+{'companyId': 35565, 'companyFullName ': '深圳市一面网络技术有限公司', 'positionName': 'Python工程师（爬虫方向）', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 35996, 'companyFullName ': '顺丰科技有限公司', 'positionName': 'GIS Python开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '20k-35k'}
+{'companyId': 76066, 'companyFullName ': '深圳晶泰科技有限公司', 'positionName': '科学计算软件开发工程师（ Python、C/C++、Fortran）', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-25k'}
+{'companyId': 211786, 'companyFullName ': '深圳市铱硙医疗科技有限公司', 'positionName': '人工智能工程师（Python）', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 142378, 'companyFullName ': '深圳市智能现实科技有限公司', 'positionName': 'PHP/Node.js/Python 高级工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '13k-25k'}
+{'companyId': 323180, 'companyFullName ': '深圳钛科瑞思信息科技有限公司', 'positionName': 'Python 后端工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '8k-10k'}
+{'companyId': 108187, 'companyFullName ': '深圳市魔方安全科技有限公司', 'positionName': 'Python 研发工程师（实习/正职）', 'education': '不限', 'workYear': '不限', 'salary': '7k-10k'}
+{'companyId': 64077, 'companyFullName ': '深圳市华海乐盈网络科技有限公司', 'positionName': 'Python爬虫工程师', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 17229, 'companyFullName ': '深圳市惠群商业数据技术有限公司', 'positionName': 'Python开发运维工程师', 'education': '大专', 'workYear': '1-3年', 'salary': '7k-14k'}
+{'companyId': 6927, 'companyFullName ': '广东欧珀移动通信有限公司', 'positionName': 'Python测试开发工程师', 'education': '本科', 'workYear': '不限', 'salary': '15k-30k'}
+{'companyId': 84086, 'companyFullName ': '厦门笨鸟电子商务有限公司', 'positionName': '高级Python爬虫工程师', 'education': '本科', 'workYear': '5-10年', 'salary': '40k-60k'}
+{'companyId': 119788, 'companyFullName ': '汇金智融（北京）科技有限公司', 'positionName': 'python爬虫', 'education': '本科', 'workYear': '1-3年', 'salary': '8k-16k'}
+{'companyId': 9087, 'companyFullName ': '深圳趣凡网络科技有限公司', 'positionName': 'python游戏服务器开发', 'education': '大专', 'workYear': '1-3年', 'salary': '10k-20k'}
+{'companyId': 163522, 'companyFullName ': '深圳开黑科技有限公司', 'positionName': 'Python自动化测试', 'education': '本科', 'workYear': '1-3年', 'salary': '10k-16k'}
+{'companyId': 9253, 'companyFullName ': '富途网络科技（深圳）有限公司', 'positionName': '社区服务端开发工程师(c++/python)', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 132080, 'companyFullName ': '悦视光合科技（北京）有限公司', 'positionName': 'Python研发工程师 (WEB后端)', 'education': '本科', 'workYear': '不限', 'salary': '8k-16k'}
+{'companyId': 76066, 'companyFullName ': '深圳晶泰科技有限公司', 'positionName': '高级后端工程师（python、Go语言）', 'education': '本科', 'workYear': '1-3年', 'salary': '15k-25k'}
+{'companyId': 119456, 'companyFullName ': '深圳市云之梦科技有限公司', 'positionName': '后台开发工程师（C++,PYTHON,GO）', 'education': '大专', 'workYear': '1-3年', 'salary': '10k-15k'}
+{'companyId': 99572, 'companyFullName ': '深圳华制智能制造技术有限公司', 'positionName': '后端开发工程师(Java/Python)', 'education': '本科', 'workYear': '3-5年', 'salary': '12k-16k'}
+{'companyId': 315621, 'companyFullName ': '深圳金中数据科技有限公司', 'positionName': 'python爬虫开发工程师', 'education': '本科', 'workYear': '不限', 'salary': '8k-15k'}
+{'companyId': 7789, 'companyFullName ': '睿初科技', 'positionName': 'C++/Python后台软件开发高级工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
+{'companyId': 65961, 'companyFullName ': '深圳市库瑞德科技有限公司', 'positionName': 'python爬虫工程师', 'education': '不限', 'workYear': '1-3年', 'salary': '8k-16k'}
+{'companyId': 135748, 'companyFullName ': '深圳米佳乐文化传媒有限公司', 'positionName': 'Python/C++金融软件开发工程师', 'education': '本科', 'workYear': '3-5年', 'salary': '12k-15k'}
+{'companyId': 37669, 'companyFullName ': '深圳米筐科技有限公司', 'positionName': 'Python-实习生', 'education': '本科', 'workYear': '不限', 'salary': '2k-3k'}
+{'companyId': 917, 'companyFullName ': '深圳市和讯华谷信息技术有限公司', 'positionName': '极光调研 -数据工程师 (Java/Python)', 'education': '本科', 'workYear': '3-5年', 'salary': '15k-30k'}
